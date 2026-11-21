@@ -44,29 +44,13 @@ learning JavaScript. the goal for the year is to git good, and i'm getting there
 
 <div align="center">
 
-<br>
 
-<sub>now playing: lo-fi beats to commit to</sub>
 
-<br>
-
-[![late night commits](https://github-stats-extended.vercel.app/api?username=BHawkins235&show_icons=true&custom_title=late%20night%20commits&bg_color=135,2b2238,4a3552&title_color=f4b183&text_color=e6d9f0&icon_color=f7a8a0&ring_color=f4b183&border_color=6b5a80&border_radius=14)](https://github.com/BHawkins235)
+(https://github.com/BHawkins235)
 [![what i write](https://github-stats-extended.vercel.app/api/top-langs/?username=BHawkins235&layout=compact&custom_title=what%20i%20write&bg_color=135,2b2238,4a3552&title_color=f4b183&text_color=e6d9f0&border_color=6b5a80&border_radius=14)](https://github.com/BHawkins235)
 
 </div>
 
 <br>
 
-<div align="center">
 
-```
-      ) )
-     ( (
-   .-------.
-   |       |]
-   |  wv   |]
-    '-----'
- stay a while.
-```
-
-</div>
